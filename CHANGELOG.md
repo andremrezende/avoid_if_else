@@ -1,3 +1,3 @@
-{version}
-{date}
+{{version}}
+{{date}}
 Example of CHANGELOG.md
